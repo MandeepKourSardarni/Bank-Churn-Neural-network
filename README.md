@@ -1,1 +1,2 @@
-# Bank-Churn-Neural-network
+# Bank-Churn
+Neural-network
